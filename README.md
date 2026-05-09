@@ -19,3 +19,5 @@ If you work in this field — professional, researcher, or advanced hobbyist —
 ### Support the project
 
 This work is partly funded through **Patreon**. If you use these tools or want open solutions like these to keep existing and improving, your support matters.
+
+https://www.patreon.com/cw/Aeroforger
