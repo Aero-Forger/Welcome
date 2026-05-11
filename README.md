@@ -15,6 +15,13 @@ Tools designed to be useful, free, and accessible.
 - 📐 **Geomatics** — spatial data manipulation and exploitation
 - 📦 **Datasets** — real production data, free to use
 
+---
+| Project | Description | Language |
+|---------|-------------|----------|
+| [**dm_extract**](https://github.com/Aero-Forger/DM_Extract) | CLI tool for extracting EXIF, XMP and GPS metadata from drone JPG images | C |
+
+---
+
 ### Philosophy
 
 The code is open. The documentation is there. The data is shared.
