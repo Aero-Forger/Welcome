@@ -4,6 +4,10 @@ I build open-source tools around **drones**, **photogrammetry**, **geomatics** a
 
 Tools designed to be useful, free, and accessible.
 
+🇬🇧 **English** | [🇫🇷 Français](README.fr.md)
+
+---
+
 ### What you'll find here
 
 - 🛩️ **Drone data processing** — acquisition, processing, analysis
