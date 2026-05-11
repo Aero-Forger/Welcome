@@ -16,6 +16,9 @@ Tools designed to be useful, free, and accessible.
 - 📦 **Datasets** — real production data, free to use
 
 ---
+
+### Projects
+
 | Project | Description | Language |
 |---------|-------------|----------|
 | [**dm_extract**](https://github.com/Aero-Forger/DM_Extract) | CLI tool for extracting EXIF, XMP and GPS metadata from drone JPG images | C |
